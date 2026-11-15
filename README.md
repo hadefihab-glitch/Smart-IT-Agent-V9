@@ -120,7 +120,7 @@ Détection d'un problème de communication avec la machine distante PC1.
 
 Lorsque la collecte échoue, Smart IT Agent affiche un état d'erreur et les informations de diagnostic.
 
-![Erreur de Connexion et d’Accès aux Données de Supervision](screenshots/Erreur%20de%20Connexion%20et%20d’Accès%20aux%20Données%20de%20Supervision.png)
+![Erreur de Connexion et d’Accès aux Données de Supervision](screenshots/Erreur%20de%20Connexion%20et%20d%E2%80%99Acc%C3%A8s%20aux%20Donn%C3%A9es%20de%20Supervision%20%28PC1%29.jpg)
 
 ---
 
