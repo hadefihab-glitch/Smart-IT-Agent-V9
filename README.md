@@ -1,4 +1,4 @@
-# 📸 Captures du projet — Smart IT Agent V9
+  # 📸 Captures du projet — Smart IT Agent V9
 
 Cette section présente les différentes étapes de développement, de configuration, de supervision et de remédiation automatique du projet **Smart IT Agent V9**.
 
@@ -39,9 +39,7 @@ Le script collecte les données CPU, RAM, disque et l'état des services Windows
 Configuration de l'adresse IP de la machine virtuelle PC1.
 
 Vérification de la connectivité réseau entre le poste principal Windows 11 et les machines distantes.
-
-![Vérification de la Connectivité Réseau et Configuration IP](screenshots/Vérification%20de%20la%20Connectivité%20Réseau%20et%20Configuration%20IP.png)
-
+![Vérification de la Connectivité Réseau et Configuration IP](screenshots/Vérification%20de%20la%20Connectivité%20Réseau%20et%20Configuration%20IP%20%28PC1%29%20%282%29.jpg)
 ---
 
 ## 🔐 5. Configuration WinRM et test PowerShell distant
