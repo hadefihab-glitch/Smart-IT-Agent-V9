@@ -212,7 +212,7 @@ Présentation du fonctionnement général du projet.
 
 L'architecture repose sur trois fonctionnalités principales : la supervision, la détection des incidents et la remédiation automatisée.
 
-![Présentation Smart IT Agent](screenshots/01-presentation-agent.jpg)
+![Présentation Smart IT Agent](screenshots/SMART%20IT%20AGENT%20V9.jpg)
 
 ---
 
@@ -222,7 +222,7 @@ Développement de l'agent principal en Java JDK 21 sous Visual Studio Code.
 
 Le programme collecte les informations système et analyse les ressources utilisées.
 
-![Développement Java](screenshots/02-developpement-java.png)
+![Développement Java](screenshots/Développement%20du%20Smart%20IT%20Agent%20en%20Java.png)
 
 ---
 
@@ -232,7 +232,7 @@ Création du script PowerShell chargé de récupérer les informations système 
 
 Le script collecte les données CPU, RAM, disque et l'état des services Windows.
 
-![Script PowerShell](screenshots/03-script-powershell.png)
+![Script PowerShell](screenshots/NOM_COMPLET_A_VERIFIER.png)
 
 ---
 
@@ -242,7 +242,7 @@ Configuration de l'adresse IP de la machine virtuelle PC1.
 
 Vérification de la connectivité réseau afin de préparer la supervision à distance.
 
-![Connectivité PC1](screenshots/04-connectivite-pc1.jpg)
+![Connectivité PC1](screenshots/NOM_COMPLET_A_VERIFIER.png)
 
 ---
 
@@ -252,7 +252,7 @@ Configuration de Windows Remote Management sur les machines Windows.
 
 WinRM permet l'exécution de commandes PowerShell à distance depuis le poste principal.
 
-![Configuration WinRM](screenshots/05-configuration-winrm.png)
+![Configuration WinRM](screenshots/NOM_COMPLET_A_VERIFIER.png)
 
 ---
 
@@ -262,7 +262,7 @@ Vérification de l'accessibilité du port TCP 5985 sur les machines distantes.
 
 Les tests permettent de confirmer que les deux machines sont accessibles sur le port utilisé par WinRM HTTP.
 
-![Tests WinRM](screenshots/06-tests-winrm.png)
+![Tests WinRM](screenshots/NOM_COMPLET_A_VERIFIER.png)
 
 ---
 
@@ -272,7 +272,7 @@ Compilation et lancement de l'agent Java depuis PowerShell.
 
 Le programme exécute des cycles de supervision sur Windows 11, PC1 et PC2.
 
-![Exécution Agent](screenshots/07-execution-agent.png)
+![Exécution Agent](screenshots/Exécution%20Smart%20IT%20Agent%20V9%20en%20PowerShell.png)
 
 ---
 
@@ -282,7 +282,7 @@ Enregistrement des informations collectées pendant les cycles de supervision.
 
 Le journal contient les mesures CPU, RAM, disque et l'état des machines.
 
-![Monitoring Log](screenshots/08-monitoring-log.png)
+![Monitoring Log](screenshots/Journal%20de%20monitoring%20en%20temps%20réel.png)
 
 ---
 
@@ -294,7 +294,7 @@ Le fichier contient les événements de type **CRITICAL**, **ALERTE** et **RECOV
 
 Il permet de consulter les anomalies et les retours à la normale.
 
-![Incidents Log](screenshots/09-incidents-log.png)
+![Incidents Log](screenshots/Journal%20des%20incidents%20Smart%20IT%20Agent.png)
 
 ---
 
@@ -304,7 +304,7 @@ Visualisation centralisée de l'état des trois machines.
 
 Le tableau de bord présente les performances CPU, RAM, disque et l'état des services Windows.
 
-![Dashboard](screenshots/10-dashboard.jpg)
+![Dashboard](screenshots/NOM_COMPLET_A_VERIFIER.png)
 
 ---
 
@@ -314,7 +314,7 @@ Détection d'un problème de communication avec PC1.
 
 Lorsque la collecte échoue, le dashboard affiche un état d'erreur et les informations de diagnostic.
 
-![Erreur PC1](screenshots/11-erreur-pc1.jpg)
+![Erreur PC1](screenshots/NOM_COMPLET_A_VERIFIER.png)
 
 ---
 
@@ -324,7 +324,7 @@ Démonstration de l'envoi d'une notification après détection d'une panne sur P
 
 L'email présente la machine concernée, son adresse IP, la date et les détails de l'erreur.
 
-![Alerte Email](screenshots/12-alerte-email.png)
+![Alerte Email](screenshots/Alerte%20Smart%20IT%20et%20notification%20automatique.png)
 
 ---
 
@@ -336,7 +336,7 @@ Après détection de son arrêt, l'agent exécute une tentative de redémarrage.
 
 Le journal confirme le retour du service à l'état **RUNNING**.
 
-![Remédiation Spooler](screenshots/13-remediation-spooler.jpg)
+![Remédiation Spooler](screenshots/NOM_COMPLET_A_VERIFIER.png)
 
 ---
 
@@ -346,8 +346,17 @@ Génération d'un rapport présentant les informations des machines supervisées
 
 Le rapport contient les performances système, l'état des services et les alertes détectées.
 
-![Rapport Supervision](screenshots/14-rapport-supervision.png)
+![Rapport Supervision](screenshots/Rapport%20de%20supervision%20informatique.png)
 
+---
+
+## 📊 15. Tableau de bord des journaux système
+
+Présentation du tableau de bord permettant de consulter les journaux et les informations de supervision.
+
+![Tableau de bord des journaux système](screenshots/Tableau%20de%20bord%20des%20journaux%20système.png)
+
+---
 ---
 
 # 🎥 Vidéos de démonstration
