@@ -30,7 +30,7 @@ Création du script PowerShell permettant de récupérer les informations systè
 
 Le script collecte les données CPU, RAM, disque et l'état des services Windows.
 
-![Développement du script PowerShell de collecte](s![Développement du script PowerShell de collecte](screenshots/NOM-EXACT-DE-LA-PHOTO.png))
+![Développement du script PowerShell de collecte](screenshots/Développement%20du%20script%20PowerShell%20de%20collecte%20des%20données%20système.png)
 
 ---
 
