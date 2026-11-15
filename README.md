@@ -110,7 +110,7 @@ Le tableau de bord présente :
 - L'état des services Windows.
 - Les alertes détectées.
 
-![Tableau de Bord de Supervision Globale du Parc Informatique](screenshots/Tableau%20de%20Bord%20de%20Supervision%20Globale%20du%20Parc%20Informatique.png)
+![Tableau de Bord de Supervision Globale du Parc Informatique](screenshots/Tableau%20de%20Bord%20de%20Supervision%20Globale%20du%20Parc%20Informatique%20%28Smart%20IT%29.jpg)
 
 ---
 
