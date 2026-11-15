@@ -148,7 +148,7 @@ Après détection de l'arrêt du service, Smart IT Agent exécute une tentative 
 
 Le journal de remédiation confirme le retour du service à l'état **RUNNING**.
 
-![Supervision et Auto-Remédiation du Service Spooler](screenshots/Supervision%20et%20Auto-Remédiation%20du%20Service%20Spooler.png)
+![Supervision et Auto-Remédiation du Service Spooler](screenshots/Supervision%20et%20Auto-Rem%C3%A9diation%20du%20Service%20Spooler%20-%20PC1.jpg)
 
 ---
 
